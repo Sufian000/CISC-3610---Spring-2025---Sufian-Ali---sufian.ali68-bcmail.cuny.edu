@@ -1,14 +1,14 @@
 
-# 🎮 Interactive Scene Builder (Advanced Edition)
+# 🎮 Interactive Scene Builder
 
-This is a modern, animated web application that lets users build an interactive visual scene using HTML, CSS, JavaScript, Canvas, and sound effects.
+This modern, animated web application lets users build an interactive visual scene using HTML, CSS, JavaScript, Canvas, and sound effects.
 
 ## 🚀 Features
 
 - 🎨 Triadic color scheme and glassmorphic UI
 - 🎮 Smooth animated character movement using Canvas
 - 🖱️ Custom toggle switches and segmented button controls
-- 🧩 Realtime scene updates based on user interaction
+- 🧩 Real-time scene updates based on user interaction
 - 🔊 Playable MP3 sound effects
 - 🎬 Canvas animation with easing
 
@@ -38,7 +38,7 @@ interactive_scene/
 3. Move the character using the **slider**
    - Toggle vertical or horizontal movement
 4. Toggle items on/off with **custom switches**
-5. Click sound buttons to play audio effects
+5. Click the sound buttons to play audio effects
 
 ## 🌐 Deployment
 
