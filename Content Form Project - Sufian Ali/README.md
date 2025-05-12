@@ -14,7 +14,7 @@ This is a **BMI (Body Mass Index) Calculator** built using **HTML**, **CSS**, an
 ## 📐 BMI Formula
 
 \[
-\text{BMI} = \frac{\text{weight (kg)}}{\text{height (m)}^2}
+\BMI = Weight (kg) / Height (m)^2
 \]
 
 Weight in pounds is converted to kilograms using:
